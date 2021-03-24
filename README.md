@@ -1,7 +1,7 @@
-# Filtros-Gmail
+# Filtros para Gmail
 Lista de filtros de gmail diseñada para organizar correo.
 
-Lista obtenida de https://docs.google.com/spreadsheets/d/13DyjdzSOBRP80adRRXV9sJvhYss-I6DNNpugFYoj2cM/edit#gid=1702744200
+Lista obtenida de [Tiswagos Liri](https://docs.google.com/spreadsheets/d/13DyjdzSOBRP80adRRXV9sJvhYss-I6DNNpugFYoj2cM/edit#gid=1702744200)
 
 ### Para importar esta lista de filtros de gmail
 
