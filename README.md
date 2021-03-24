@@ -5,7 +5,7 @@ Lista obtenida de https://docs.google.com/spreadsheets/d/13DyjdzSOBRP80adRRXV9sJ
 
 ### Para importar esta lista de filtros de gmail
 
-1. Ve al archivo en bruto [adclose.json](https://raw.githubusercontent.com/Xaival/AdClose/main/adclose.json).
+1. Ve al archivo en bruto [mailFilters.xml](https://raw.githubusercontent.com/Xaival/Filtros-Gmail/main/mailFilters.xml).
 2. Pulsa con clic derecho en cualquier parte de la pagina y dale a la opcion de "Guardar como..."
 3. Por ultimo selecciona donde quieres que se guarde.
 4. Ve a tu cuenta de [gmail](https://mail.google.com/).
