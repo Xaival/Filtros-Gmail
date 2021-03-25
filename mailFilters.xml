@@ -11,8 +11,8 @@
 	</entry>
 <entry>
 <title>1.Cuenta oficial</title>
-<apps:property name='from' value='@777studios.net OR @bandainamcoent.eu OR @news.bandainamcoent.eu OR @blizzard.com OR @coregames.com OR @manticoregames.com OR @crackwatch.com OR @dotbigbang.com OR @email.games2gether.com OR @hirezstudios.com OR @hubs-mail.com OR @email.instant-gaming.com OR @itch.io OR @email.mihoyo.com OR @my.games OR @oww.io OR @parallaxgame.com OR @roblox.com OR @sansar.com OR @sega.co.uk OR @xmail.square-enix.com OR @steelseries.com'/>
-<apps:property name='label' value='Registros/Juegos'/>
+<apps:property name='from' value='@777studios.net OR @alienwarearena.com OR @bandainamcoent.eu OR @news.bandainamcoent.eu OR @blizzard.com OR @coregames.com OR @manticoregames.com OR @crackwatch.com OR @dotbigbang.com OR @gaijin.net OR @m.gamehag.com OR @gamehag.com OR @email.games2gether.com OR @hirezstudios.com OR @hubs-mail.com OR @email.instant-gaming.com OR @itch.io OR @email.mihoyo.com OR @my.games OR @oww.io OR @parallaxgame.com OR @pearlabyss.com OR @roblox.com OR @sansar.com OR @sega.co.uk OR @xmail.square-enix.com OR @steelseries.com OR @activate.warframe.com'/>
+<apps:property name='label' value='Registros/Juegos/'/>
 </entry>
 <entry>
 <title>1.Cuenta oficial</title>
@@ -51,7 +51,7 @@
 </entry>
 <entry>
 <title>1.Cuenta oficial</title>
-<apps:property name='from' value='@rockstargames.com'/>
+<apps:property name='from' value='@rockstargames.com OR support@rockstargames.com'/>
 <apps:property name='label' value='Registros/Juegos/Rockstar'/>
 </entry>
 <entry>
@@ -67,12 +67,17 @@
 <entry>
 <title>1.Cuenta oficial</title>
 <apps:property name='from' value='@juntadeandalucia.es OR @seg-social.es OR @seg-social.gob.es OR @policia.es OR @fnmt.es OR @sevilla.org OR @tussam.es'/>
-<apps:property name='label' value='Registros/Oficial'/>
+<apps:property name='label' value='Registros/Oficial/'/>
 </entry>
 <entry>
 <title>1.Cuenta oficial</title>
-<apps:property name='from' value='@20minutos.es OR @adobe.com OR @behance.com OR @airdroid.com OR @airtable.com OR @algorithmia.com OR @amazon.com OR @amazon.es OR twitch-verify@amazon.com OR aminoeditor@gmail.com OR @id.apple.com OR @InsideApple.Apple.com OR @itunes.com OR @am.atlassian.com OR @autodesk.com OR @awesome-table.com OR @biodigital.com OR @idm.myid.canon OR @codepen.io OR @cryengine.com OR @degoo.com OR @dropbox.com OR @github.com OR @gleam.io OR @imgbb.com OR @archive.org OR @kastapp.co OR @masteringbox.com OR @mega.nz OR @moreapp.com OR @neocities.org OR @mail.notion.so OR @nvidia.com OR @tmail.nvidia.com OR @playpaste.com OR @razer.com OR @repl.it OR @sketchfab.com OR @mail.sony-europe.com OR @sony.com OR @substance3d.com OR @teamviewer.com OR @unity3d.com OR @info.wallapop.com'/>
-<apps:property name='label' value='Registros/Otros'/>
+<apps:property name='from' value='@20minutos.es OR @adobe.com OR @behance.com OR @airdroid.com OR @airtable.com OR @algorithmia.com OR @amazon.com OR @amazon.es OR twitch-verify@amazon.com OR aminoeditor@gmail.com OR @id.apple.com OR @InsideApple.Apple.com OR @itunes.com OR @am.atlassian.com OR @autodesk.com OR @awesome-table.com OR @biodigital.com OR @idm.myid.canon OR @codepen.io OR @cryengine.com OR @degoo.com OR @dropbox.com OR @eyeo.com OR @github.com OR @gleam.io OR @idle-empire.com OR @imgbb.com OR @archive.org OR @kastapp.co OR @evasyst.com OR @masteringbox.com OR @mega.nz OR @moreapp.com OR @neocities.org OR @mail.notion.so OR @nvidia.com OR @tmail.nvidia.com OR @pastebin.com OR @playpaste.com OR @pornhub.com OR @razer.com OR @repl.it OR @sepiia.com OR @mail.sheetsu.io OR @sketchfab.com OR @mail.sony-europe.com OR @sony.com OR @substance3d.com'/>
+<apps:property name='label' value='Registros/Otros/'/>
+</entry>
+<entry>
+<title>1.Cuenta oficial</title>
+<apps:property name='from' value='@teamviewer.com OR @trello.com OR @unity3d.com OR @info.wallapop.com OR @wixanswers.com'/>
+<apps:property name='label' value='Registros/Otros/'/>
 </entry>
 <entry>
 <title>1.Cuenta oficial</title>
@@ -86,7 +91,7 @@
 </entry>
 <entry>
 <title>1.Cuenta oficial</title>
-<apps:property name='from' value='@accounts.google.com OR @google.com OR learndigital-noreply@withgoogle.com OR googlealerts-noreply@google.com OR googletrends-noreply@google.com OR google-data-studio-noreply@google.com OR firebase-no-reply@google.com OR noreply-photos@google.com OR @googlemail.com OR google-maps-noreply@google.com OR noreply-local-guides@google.com OR noreply-maps-issues@google.com OR noreply-maps-timeline@google.com OR stadia-noreply@google.com OR tagmanager-noreply@google.com'/>
+<apps:property name='from' value='@accounts.google.com OR @google.com OR learndigital-noreply@withgoogle.com OR googlealerts-noreply@google.com OR googletrends-noreply@google.com OR apps-scripts-notifications@google.com OR google-data-studio-noreply@google.com OR firebase-no-reply@google.com OR noreply-photos@google.com OR @googlemail.com OR google-maps-noreply@google.com OR noreply-local-guides@google.com OR noreply-maps-issues@google.com OR noreply-maps-timeline@google.com OR stadia-noreply@google.com OR tagmanager-noreply@google.com'/>
 <apps:property name='label' value='Registros/Otros/Google'/>
 </entry>
 <entry>
@@ -121,8 +126,8 @@
 </entry>
 <entry>
 <title>1.Cuenta oficial</title>
-<apps:property name='from' value='@3djuegos.com OR @3djuegos.info OR @email.allmylinks.com OR @biolinky.co OR @spotify.com OR @teamspeak.com OR @account.tiktok.com OR @tumblr.com OR @tumblr.zendesk.com OR @twitter.com OR @notify.vk.com'/>
-<apps:property name='label' value='Registros/RRSS'/>
+<apps:property name='from' value='@3djuegos.com OR @3djuegos.info OR @email.allmylinks.com OR @biolinky.co OR @blogger.com OR @spotify.com OR @teamspeak.com OR @teamspeakhelp.zendesk.com OR @account.tiktok.com OR @tumblr.com OR @tumblr.zendesk.com OR @twitter.com OR @notify.vk.com'/>
+<apps:property name='label' value='Registros/RRSS/'/>
 </entry>
 <entry>
 <title>1.Cuenta oficial</title>
@@ -146,7 +151,7 @@
 </entry>
 <entry>
 <title>1.Cuenta oficial</title>
-<apps:property name='from' value='@sfmarketing.twitch.tv OR @twitch.tv OR @dixper.io OR @streamloots.com OR @streamelements.com OR @streamlabs.com'/>
+<apps:property name='from' value='@sfmarketing.twitch.tv OR @twitch.tv OR @dixper.gg OR @dixper.io OR @streamloots.com OR @streamelements.com OR @streamlabs.com'/>
 <apps:property name='label' value='Registros/RRSS/Twitch'/>
 </entry>
 <entry>
@@ -157,7 +162,7 @@
 <entry>
 <title>1.Cuenta oficial</title>
 <apps:property name='from' value='@b4workapp.com OR @mercadona.avature.net OR @miscursosyformacion.com OR @talent.com OR @trabeja.com'/>
-<apps:property name='label' value='Registros/Study - Job'/>
+<apps:property name='label' value='Registros/Study - Job/'/>
 </entry>
 <entry>
 <title>1.Cuenta oficial</title>
@@ -172,7 +177,7 @@
 <entry>
 <title>2.Propaganda oficial</title>
 <apps:property name='from' value='community@sega.co.uk OR newsletter@steelseries.com'/>
-<apps:property name='label' value='Registros/Juegos'/>
+<apps:property name='label' value='Registros/Juegos/'/>
 <apps:property name='shouldArchive' value='true'/>
 </entry>
 <entry>
@@ -207,8 +212,8 @@
 </entry>
 <entry>
 <title>2.Propaganda oficial</title>
-<apps:property name='from' value='@aliexpress.com OR mailing@artelista.com OR @update.clipchamp.com OR newsletter@email.hofmann.es OR @mails.teamviewer.com OR @toggl.com'/>
-<apps:property name='label' value='Registros/Otros'/>
+<apps:property name='from' value='@aliexpress.com OR mailing@artelista.com OR @update.clipchamp.com OR @mailer.grabpoints.com OR newsletter@email.hofmann.es OR @mails.teamviewer.com OR @toggl.com'/>
+<apps:property name='label' value='Registros/Otros/'/>
 <apps:property name='shouldArchive' value='true'/>
 </entry>
 <entry>
@@ -237,22 +242,27 @@
 </entry>
 <entry>
 <title>3.Phishing - Fraude</title>
-<apps:property name='from' value='@5ymail.me OR @encuentraunamqmf.com OR @acceptphoto.com OR @actionflirt.com OR @actionwild.com OR @addflirt.com OR @addsingle.com OR @affairmap.com OR @allhookup.com OR @allurehot.com OR @babetouch.com OR @bangfirst.com OR @betterhookup.com OR @blushclick.com OR @buddyhot.com OR @candidhot.com OR @candidplay.com OR @chanceconnect.com OR @chatlikes.com OR @chatnational.com OR @cheataccess.com OR @chickbuddy.com OR @chickeasy.com OR @chickfever.com OR @chosensocial.com OR @citasfurtivas.com OR @clickloving.com OR @clickrelation.com OR @clubproper.com OR @clubrequest.com OR @connectseeker.com OR @contactlady.com OR @coolencounter.com OR @cravesurf.com OR @crazyvisit.com OR @crushlover.com OR @cupcakechat.com OR @cupidheat.com OR @cupidlady.com OR @cyberprimal.com OR @datebeyond.com OR @desirelocal.com OR @easydamsel.com OR @enablephoto.com OR @enterpassion.com OR @fidelityfun.com OR @findmingle.com OR @finedesire.com OR '/>
+<apps:property name='from' value='@5ymail.me OR @encuentraunamqmf.com OR @acceptphoto.com OR @actionflirt.com OR @actionwild.com OR @addflirt.com OR @addsingle.com OR @affairmap.com OR @allhookup.com OR @allurehot.com OR @babetouch.com OR @bangfirst.com OR @betterhookup.com OR @blushclick.com OR @buddyhot.com OR @candidhot.com OR @candidplay.com OR @chanceconnect.com OR @chatlikes.com OR @chatnational.com OR @cheataccess.com OR @chickbuddy.com OR @chickeasy.com OR @chickfever.com OR @chosensocial.com OR @citasfurtivas.com OR @clickloving.com OR @clickrelation.com OR @clubproper.com OR @clubrequest.com OR @connectseeker.com OR @contactlady.com OR @coolencounter.com OR @cravesurf.com OR @crazyvisit.com OR @crushlover.com OR @cupcakechat.com OR @cupidheat.com OR @cupidlady.com OR @cyberprimal.com OR @datebeyond.com OR @desirelocal.com OR @easydamsel.com OR @enablephoto.com OR @enterpassion.com OR @fidelityfun.com OR @findmingle.com OR @finedesire.com'/>
 <apps:property name='shouldTrash' value='true'/>
 </entry>
 <entry>
 <title>3.Phishing - Fraude</title>
-<apps:property name='from' value='@finepersonal.com OR @flingcenter.com OR @flirtconmujeres.net OR @flirtlady.com OR @flirtssupport.com OR @flirtwoman.com OR @foxybuddy.com OR @foxyconnect.com OR @freshmingle.com OR @friendcyber.com OR @friendwild.com OR @funallure.com OR @gentlesocial.com OR @girlreach.com OR @girlresponse.com OR @girlsromance.com OR @gmx.at OR @goodslam.com OR @handsomelocal.com OR @helpkiss.com OR @hiddenmeet.com OR @honeycontact.com OR @imagemember.com OR @individualfun.com OR @interactlove.com OR @invitealert.com OR @inviteinfo.com OR @joyprivate.com OR @justencounter.com OR @kissden.com OR @kisslocator.com OR @kissnext.com OR @ladycyber.com OR @ladytap.com OR @lasthappy.com OR @likegal.com OR @likehookup.com OR @likepickup.com OR @linkcasual.com OR @linkednext.com OR @linkvenus.com OR @listsingle.com OR @lookmagnet.com OR @lookpersonal.com OR @loverport.com OR @luckycute.com OR @meetbytes.com OR @meetdisplay.com OR @meetseeker.com OR @midnighteasy.com OR '/>
+<apps:property name='from' value='@finepersonal.com OR @flingcenter.com OR @flirtconmujeres.net OR @flirtlady.com OR @flirtssupport.com OR @flirtwoman.com OR @foxybuddy.com OR @foxyconnect.com OR @freshmingle.com OR @friendcyber.com OR @friendwild.com OR @funallure.com OR @gentlesocial.com OR @girlreach.com OR @girlresponse.com OR @girlsromance.com OR @gmx.at OR @goodslam.com OR @handsomelocal.com OR @helpkiss.com OR @hiddenmeet.com OR @honeycontact.com OR @imagemember.com OR @individualfun.com OR @interactlove.com OR @invitealert.com OR @inviteinfo.com OR @joyprivate.com OR @justencounter.com OR @kissden.com OR @kisslocator.com OR @kissnext.com OR @ladycyber.com OR @ladytap.com OR @lasthappy.com OR @likegal.com OR @likehookup.com OR @likepickup.com OR @linkcasual.com OR @linkednext.com OR @linkvenus.com OR @listsingle.com OR @lookmagnet.com OR @lookpersonal.com OR @loverport.com OR @luckycute.com OR @meetbytes.com OR @meetdisplay.com OR @meetseeker.com OR @midnighteasy.com'/>
 <apps:property name='shouldTrash' value='true'/>
 </entry>
 <entry>
 <title>3.Phishing - Fraude</title>
-<apps:property name='from' value='@misstap.com OR @motionhot.com OR @myseductive.com OR @needready.com OR @newharlot.com OR @newseeking.com OR @nicecupid.com OR @nicerequest.com OR @nightperfect.com OR @nowlover.com OR @oneintimate.com OR @ourhookup.com OR @pagehello.com OR @pagemessage.com OR @partnersfun.com OR @partybrowse.com OR @passioncontact.com OR @passionsend.com OR @perfectfling.com OR @pickideal.com OR @picklady.com OR @prettyaction.com OR @privatecharm.com OR @privatespark.com OR @profileaction.com OR @profilecontent.com OR @profilesee.com OR @providelink.com OR @rapidsingle.com OR @reactionlink.com OR @readymember.com OR @readynight.com OR @readytrue.com OR @relationcafe.com OR @responsetalk.com OR @romancehit.com OR @romancesocial.com OR @safenaughty.com OR @scorekiss.com OR @searchdoll.com OR @searchlust.com OR @secretchick.com OR @seduccionyaventuras.com OR @selectnight.com OR @selectwild.com OR @sendcute.com OR @sendlady.com OR @sendpassion.com OR @sensepassion.com OR @showdesire.com OR '/>
+<apps:property name='from' value='@misstap.com OR @motionhot.com OR @myseductive.com OR @needready.com OR @newharlot.com OR @newseeking.com OR @nicecupid.com OR @nicerequest.com OR @nightperfect.com OR @nowlover.com OR @oneintimate.com OR @ourhookup.com OR @pagehello.com OR @pagemessage.com OR @partnersfun.com OR @partybrowse.com OR @passioncontact.com OR @passionsend.com OR @perfectfling.com OR @pickideal.com OR @picklady.com OR @prettyaction.com OR @privatecharm.com OR @privatespark.com OR @profileaction.com OR @profilecontent.com OR @profilesee.com OR @providelink.com OR @rapidsingle.com OR @reactionlink.com OR @readymember.com OR @readynight.com OR @readytrue.com OR @relationcafe.com OR @responsetalk.com OR @romancehit.com OR @romancesocial.com OR @safenaughty.com OR @scorekiss.com OR @searchdoll.com OR @searchlust.com OR @secretchick.com OR @seduccionyaventuras.com OR @selectnight.com OR @selectwild.com OR @sendcute.com OR @sendlady.com OR @sendpassion.com OR @sensepassion.com OR @showdesire.com'/>
 <apps:property name='shouldTrash' value='true'/>
 </entry>
 <entry>
 <title>3.Phishing - Fraude</title>
-<apps:property name='from' value='@showlust.com OR @showraw.com OR @sidelady.com OR @sidesecret.com OR @singlesdigital.com OR @sitenaughty.com OR @sl.safesecuremsg.com OR @smashtouch.com OR @smileprivate.com OR @soloprofile.com OR @speedcharm.com OR @spiceload.com OR @spicesmile.com OR @surfhello.com OR @taglinked.com OR @talkdesire.com OR @taplinked.com OR @timeprivate.com OR @touchcrave.com OR @touchpush.com OR @ultracheatersmail.com OR @venuslocal.com OR @viewbabe.com OR @viewcupid.com OR @viewdesire.com OR @visitsecret.com OR @vixensonline.com OR @wantcupid.com OR @weconfidential.com OR @wildpersonal.com OR @wiredmatch.com OR @wowfling.com OR @wowrequest.com OR @yourlay.com OR @yourwicked.com OR @zoomwoman.com OR flemingarron84@gmail.com OR lygune2004@gmail.com OR serg.sobol852@gmail.com OR urkovaoksana16@gmail.com OR viktorsuharev07@gmail.com OR @news.laseleccionenlinea.com OR @newsletters7-60.de OR @root.goodigs.net OR @soap.goodigs.net OR @stretch.caeller.be OR @bmo.com OR @ns2.shoppi.org.uk OR @leader.goodigs.net OR @df.worldspatial.com OR '/>
+<apps:property name='from' value='@showlust.com OR @showraw.com OR @sidelady.com OR @sidesecret.com OR @singlesdigital.com OR @sitenaughty.com OR @sl.safesecuremsg.com OR @smashtouch.com OR @smileprivate.com OR @soloprofile.com OR @speedcharm.com OR @spiceload.com OR @spicesmile.com OR @surfhello.com OR @taglinked.com OR @talkdesire.com OR @taplinked.com OR @timeprivate.com OR @touchcrave.com OR @touchpush.com OR @ultracheatersmail.com OR @venuslocal.com OR @viewbabe.com OR @viewcupid.com OR @viewdesire.com OR @visitsecret.com OR @vixensonline.com OR @wantcupid.com OR @weconfidential.com OR @wildpersonal.com OR @wiredmatch.com OR @wowfling.com OR @wowrequest.com OR @yourlay.com OR @yourwicked.com OR @zoomwoman.com OR flemingarron84@gmail.com OR lygune2004@gmail.com OR serg.sobol852@gmail.com OR urkovaoksana16@gmail.com OR viktorsuharev07@gmail.com OR @news.laseleccionenlinea.com OR @newsletters7-60.de OR @root.goodigs.net OR @soap.goodigs.net OR @stretch.caeller.be OR @bmo.com OR @ns2.shoppi.org.uk OR @leader.goodigs.net OR @df.worldspatial.com'/>
+<apps:property name='shouldTrash' value='true'/>
+</entry>
+<entry>
+<title>3.Phishing - Fraude</title>
+<apps:property name='from' value='@post.lu OR @newsletter.lidl.es OR @ptt.gov.tr OR @sidesadvice.com OR @charter.net OR @mail.goodreads.com OR @wideo-2.intercom-mail.com OR @angled.nanolost.com OR @dearth.highmaid.com OR @lastinfos.xyz OR @thekingdavidgallery.com OR @wp.pl'/>
 <apps:property name='shouldTrash' value='true'/>
 </entry>
 </feed>
