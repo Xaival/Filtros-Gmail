@@ -76,7 +76,7 @@
 </entry>
 <entry>
 <title>1.Cuenta oficial</title>
-<apps:property name='from' value='@tmail.nvidia.com OR @event.nvidia.com OR @pastebin.com OR @playpaste.com OR @pornhub.com OR @razer.com OR @repl.it OR @resemble-ai-553f8a65fd6b.intercom-mail.com OR @sepiia.com OR @mail.sheetsu.io OR @sketchfab.com OR @mail.sony-europe.com OR @sony.com OR @sparkol.com OR @squarespace.com OR @substance3d.com OR @teamviewer.com OR @trello.com OR @turbosquid.com OR @unity3d.com OR @uploaded.net OR @entradas.com OR @info.wallapop.com OR @wixanswers.com OR @wps.com OR @xyzprinting.com OR @descript.com OR @fxhome.com OR @accounts.google.com OR @google.com OR learndigital-noreply@withgoogle.com OR googlealerts-noreply@google.com OR googletrends-noreply@google.com OR apps-scripts-notifications@google.com OR @appsheet.com OR google-data-studio-noreply@google.com OR firebase-no-reply@google.com OR noreply-photos@google.com OR @googlemail.com OR google-maps-noreply@google.com OR noreply-local-guides@google.com OR noreply-maps-issues@google.com OR noreply-maps-timeline@google.com OR stadia-noreply@google.com OR tagmanager-noreply@google.com OR @ifttt.com OR @integromat.com OR @accountprotection.microsoft.com OR @communication.microsoft.com OR @e-mail.microsoft.com'/>
+<apps:property name='from' value='@tmail.nvidia.com OR @event.nvidia.com OR @pastebin.com OR @playpaste.com OR @razer.com OR @repl.it OR @resemble-ai-553f8a65fd6b.intercom-mail.com OR @sepiia.com OR @mail.sheetsu.io OR @sketchfab.com OR @mail.sony-europe.com OR @sony.com OR @sparkol.com OR @squarespace.com OR @substance3d.com OR @teamviewer.com OR @trello.com OR @turbosquid.com OR @unity3d.com OR @uploaded.net OR @entradas.com OR @info.wallapop.com OR @wixanswers.com OR @wps.com OR @xyzprinting.com OR @descript.com OR @fxhome.com OR @accounts.google.com OR @google.com OR learndigital-noreply@withgoogle.com OR googlealerts-noreply@google.com OR googletrends-noreply@google.com OR apps-scripts-notifications@google.com OR @appsheet.com OR google-data-studio-noreply@google.com OR firebase-no-reply@google.com OR noreply-photos@google.com OR @googlemail.com OR google-maps-noreply@google.com OR noreply-local-guides@google.com OR noreply-maps-issues@google.com OR noreply-maps-timeline@google.com OR stadia-noreply@google.com OR tagmanager-noreply@google.com OR @ifttt.com OR @integromat.com OR @accountprotection.microsoft.com OR @communication.microsoft.com OR @e-mail.microsoft.com'/>
 <apps:property name='label' value='Registros/Otros'/>
 </entry>
 <entry>
@@ -181,7 +181,7 @@
 </entry>
 <entry>
 <title>1.Cuenta oficial</title>
-<apps:property name='from' value='@adultdeepfakes.com'/>
+<apps:property name='from' value='@adultdeepfakes.com OR @pornhub.com'/>
 <apps:property name='label' value='Registros/XXX'/>
 </entry>
 <entry>
