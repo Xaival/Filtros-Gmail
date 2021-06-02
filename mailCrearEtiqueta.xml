@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Filtros registro</title> 
+	<author>
+		<name>Xaival</name>
+	</author>
+	<entry>
+	<title>Registros</title>
+	<apps:property name='from' value='o0@0o'/>
+	<apps:property name='label' value='Registros'/>
+	</entry>
+	<entry>
+	<apps:property name='from' value='o0@0o'/>
+	<apps:property name='label' value='Registros/Juegos'/>
+	</entry>
+	<entry>
+	<apps:property name='from' value='o0@0o'/>
+	<apps:property name='label' value='Registros/Juegos/Activision'/>
+	</entry>
+	<entry>
+	<apps:property name='from' value='o0@0o'/>
+	<apps:property name='label' value='Registros/Juegos/EA'/>
+	</entry>
+	<entry>
+	<apps:property name='from' value='o0@0o'/>
+	<apps:property name='label' value='Registros/Juegos/Epic Games'/>
+	</entry>
+	<entry>
+	<apps:property name='from' value='o0@0o'/>
+	<apps:property name='label' value='Registros/Juegos/GOG'/>
+	</entry>
+	<entry>
+	<apps:property name='from' value='o0@0o'/>
+	<apps:property name='label' value='Registros/Juegos/Humble Bundle'/>
+	</entry>
+	<entry>
+	<apps:property name='from' value='o0@0o'/>
+	<apps:property name='label' value='Registros/Juegos/IndieGala'/>
+	</entry>
+	<entry>
+	<apps:property name='from' value='o0@0o'/>
+	<apps:property name='label' value='Registros/Juegos/Keymailer'/>
+	</entry>
+	<entry>
+	<apps:property name='from' value='o0@0o'/>
+	<apps:property name='label' value='Registros/Juegos/PlayStation'/>
+	</entry>
+	<entry>
+	<apps:property name='from' value='o0@0o'/>
+	<apps:property name='label' value='Registros/Juegos/Rockstar'/>
+	</entry>
+	<entry>
+	<apps:property name='from' value='o0@0o'/>
+	<apps:property name='label' value='Registros/Juegos/Steam'/>
+	</entry>
+	<entry>
+	<apps:property name='from' value='o0@0o'/>
+	<apps:property name='label' value='Registros/Juegos/Ubisoft'/>
+	</entry>
+	<entry>
+	<apps:property name='from' value='o0@0o'/>
+	<apps:property name='label' value='Registros/Oficial'/>
+	</entry>
+	<entry>
+	<apps:property name='from' value='o0@0o'/>
+	<apps:property name='label' value='Registros/Otros'/>
+	</entry>
+	<entry>
+	<apps:property name='from' value='o0@0o'/>
+	<apps:property name='label' value='Registros/Otros/Google'/>
+	</entry>
+	<entry>
+	<apps:property name='from' value='o0@0o'/>
+	<apps:property name='label' value='Registros/Otros/IFTTT'/>
+	</entry>
+	<entry>
+	<apps:property name='from' value='o0@0o'/>
+	<apps:property name='label' value='Registros/Otros/Integromat'/>
+	</entry>
+	<entry>
+	<apps:property name='from' value='o0@0o'/>
+	<apps:property name='label' value='Registros/Otros/Microsoft'/>
+	</entry>
+	<entry>
+	<apps:property name='from' value='o0@0o'/>
+	<apps:property name='label' value='Registros/Otros/PayPal'/>
+	</entry>
+	<entry>
+	<apps:property name='from' value='o0@0o'/>
+	<apps:property name='label' value='Registros/Otros/Revolut'/>
+	</entry>
+	<entry>
+	<apps:property name='from' value='o0@0o'/>
+	<apps:property name='label' value='Registros/Otros/Zapier'/>
+	</entry>
+	<entry>
+	<apps:property name='from' value='o0@0o'/>
+	<apps:property name='label' value='Registros/RRSS'/>
+	</entry>
+	<entry>
+	<apps:property name='from' value='o0@0o'/>
+	<apps:property name='label' value='Registros/RRSS/Discord'/>
+	</entry>
+	<entry>
+	<apps:property name='from' value='o0@0o'/>
+	<apps:property name='label' value='Registros/RRSS/Facebook'/>
+	</entry>
+	<entry>
+	<apps:property name='from' value='o0@0o'/>
+	<apps:property name='label' value='Registros/RRSS/Instagram'/>
+	</entry>
+	<entry>
+	<apps:property name='from' value='o0@0o'/>
+	<apps:property name='label' value='Registros/RRSS/Twitch'/>
+	</entry>
+	<entry>
+	<apps:property name='from' value='o0@0o'/>
+	<apps:property name='label' value='Registros/RRSS/Youtube'/>
+	</entry>
+	<entry>
+	<apps:property name='from' value='o0@0o'/>
+	<apps:property name='label' value='Registros/Study - Job'/>
+	</entry>
+	<entry>
+	<apps:property name='from' value='o0@0o'/>
+	<apps:property name='label' value='Registros/Study - Job/Infojobs'/>
+	</entry>
+	<entry>
+	<apps:property name='from' value='o0@0o'/>
+	<apps:property name='label' value='Registros/Study - Job/Linkedin'/>
+	</entry>
+	<entry>
+	<apps:property name='from' value='o0@0o'/>
+	<apps:property name='label' value='Registros/XXX'/>
+	</entry>
+</feed>
