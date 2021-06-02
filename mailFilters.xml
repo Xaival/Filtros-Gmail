@@ -231,7 +231,7 @@
 <entry>
 <title>2.Propaganda oficial</title>
 <apps:property name='from' value='comunidad@crehana.com'/>
-<apps:property name='label' value='Registros/Study - Job/Crehana '/>
+<apps:property name='label' value='Registros/Study - Job/Crehana'/>
 <apps:property name='shouldArchive' value='true'/>
 </entry>
 <entry>
