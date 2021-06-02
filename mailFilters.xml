@@ -11,12 +11,12 @@
 	</entry>
 <entry>
 <title>1.Cuenta oficial</title>
-<apps:property name='from' value='@777studios.net OR @alienwarearena.com OR @bandainamcoent.eu OR @news.bandainamcoent.eu OR @naeu.playblackdesert.com OR @blizzard.com OR @coregames.com OR @manticoregames.com OR @crackwatch.com OR @deadfrontier2.com OR @dotbigbang.com OR @gaijin.net OR @m.gamehag.com OR @gamehag.com OR @email.games2gether.com OR @emails.gothamcityimpostors.com OR @heroesandgenerals.com OR @spellbook.com OR @hirezstudios.com OR @hubs-mail.com OR @email.instant-gaming.com OR @itch.io OR @login.xsolla.com OR @email.mihoyo.com OR @my.games OR @oww.io OR @parallaxgame.com OR @pearlabyss.com OR @rawg.io OR @roblox.com OR @sansar.com OR @sega.co.uk OR @xmail.square-enix.com OR @bioware.swtor.com OR @steelseries.com OR @koggames.com OR @2fa.warframe.com OR @activate.warframe.com OR @accounts.wizards'/>
+<apps:property name='from' value='@777studios.net OR @alienwarearena.com OR @bandainamcoent.eu OR @news.bandainamcoent.eu OR @naeu.playblackdesert.com OR @blizzard.com OR @coregames.com OR @manticoregames.com OR @crackwatch.com OR @deadfrontier2.com OR @dotbigbang.com OR @gaijin.net OR @m.gamehag.com OR @gamehag.com OR support@gamehag.zendesk.com OR @email.games2gether.com OR @emails.gothamcityimpostors.com OR @heroesandgenerals.com OR @spellbook.com OR @hirezstudios.com OR @hubs-mail.com OR @email.instant-gaming.com OR @itch.io OR @login.xsolla.com OR @email.mihoyo.com OR @my.games OR @oww.io OR @parallaxgame.com OR @pearlabyss.com OR @rawg.io OR @roblox.com OR @sansar.com OR @sega.co.uk OR @xmail.square-enix.com OR @bioware.swtor.com OR @steelseries.com OR @koggames.com OR @2fa.warframe.com OR @activate.warframe.com OR @accounts.wizards.com'/>
 <apps:property name='label' value='Registros/Juegos'/>
 </entry>
 <entry>
 <title>1.Cuenta oficial</title>
-<apps:property name='from' value='@marketing.activision.com OR @te.activision'/>
+<apps:property name='from' value='@marketing.activision.com OR @te.activision.com'/>
 <apps:property name='label' value='Registros/Juegos/Activision'/>
 </entry>
 <entry>
@@ -26,12 +26,12 @@
 </entry>
 <entry>
 <title>1.Cuenta oficial</title>
-<apps:property name='from' value='@epicgames.com OR help@acct.epicgames.com OR help@epicgames.com OR @unrealengine'/>
+<apps:property name='from' value='@epicgames.com OR help@acct.epicgames.com OR help@epicgames.com OR @unrealengine.com'/>
 <apps:property name='label' value='Registros/Juegos/Epic Games'/>
 </entry>
 <entry>
 <title>1.Cuenta oficial</title>
-<apps:property name='from' value='@email.gog.com OR @gogalaxy'/>
+<apps:property name='from' value='@email.gog.com OR @gogalaxy.com'/>
 <apps:property name='label' value='Registros/Juegos/GOG'/>
 </entry>
 <entry>
@@ -46,12 +46,12 @@
 </entry>
 <entry>
 <title>1.Cuenta oficial</title>
-<apps:property name='from' value='@email.sonyentertainmentnetwork.com OR @txn-email.playstation'/>
+<apps:property name='from' value='@email.sonyentertainmentnetwork.com OR @txn-email.playstation.com'/>
 <apps:property name='label' value='Registros/Juegos/PlayStation'/>
 </entry>
 <entry>
 <title>1.Cuenta oficial</title>
-<apps:property name='from' value='@rockstargames.com OR support@rockstargames'/>
+<apps:property name='from' value='@rockstargames.com OR support@rockstargames.com'/>
 <apps:property name='label' value='Registros/Juegos/Rockstar'/>
 </entry>
 <entry>
@@ -61,12 +61,12 @@
 </entry>
 <entry>
 <title>1.Cuenta oficial</title>
-<apps:property name='from' value='@cs.ubisoft.com OR @ubi'/>
+<apps:property name='from' value='@cs.ubisoft.com OR @ubi.com'/>
 <apps:property name='label' value='Registros/Juegos/Ubisoft'/>
 </entry>
 <entry>
 <title>1.Cuenta oficial</title>
-<apps:property name='from' value='@amazon.com OR @amazon.es OR twitch-verify@amazon.com OR @juntadeandalucia.es OR @seg-social.es OR @seg-social.gob.es OR @pccomponentes.com OR @policia.es OR @fnmt.es OR @sevilla.org OR @tussa'/>
+<apps:property name='from' value='@amazon.com OR @amazon.es OR twitch-verify@amazon.com OR @juntadeandalucia.es OR @seg-social.es OR @seg-social.gob.es OR @pccomponentes.com OR @policia.es OR @fnmt.es OR @sevilla.org OR @tussam.es'/>
 <apps:property name='label' value='Registros/Oficial'/>
 </entry>
 <entry>
@@ -76,13 +76,8 @@
 </entry>
 <entry>
 <title>1.Cuenta oficial</title>
-<apps:property name='from' value='@event.nvidia.com OR support@nvidia.zendesk.com OR @pastebin.com OR @playpaste.com OR @mail.plex.tv OR @razer.com OR @repl.it OR @resemble-ai-553f8a65fd6b.intercom-mail.com OR @sepiia.com OR @mail.sheetsu.io OR @sketchfab.com OR @mail.sony-europe.com OR @sony.com OR @sparkol.com OR @squarespace.com OR @substance3d.com OR @teamviewer.com OR @trello.com OR @turbosquid.com OR @typeform.com OR @unity3d.com OR @uploaded.net OR @entradas.com OR @info.wallapop.com OR @wixanswers.com OR @wps.com OR @xyzprinting'/>
+<apps:property name='from' value='@event.nvidia.com OR support@nvidia.zendesk.com OR @pastebin.com OR @playpaste.com OR @mail.plex.tv OR @razer.com OR @repl.it OR @resemble-ai-553f8a65fd6b.intercom-mail.com OR @sepiia.com OR @mail.sheetsu.io OR @sketchfab.com OR @mail.sony-europe.com OR @sony.com OR @sparkol.com OR @squarespace.com OR @substance3d.com OR @teamviewer.com OR @trello.com OR @turbosquid.com OR @typeform.com OR @unity3d.com OR @uploaded.net OR @entradas.com OR @info.wallapop.com OR @wixanswers.com OR @wps.com OR @xyzprinting.com'/>
 <apps:property name='label' value='Registros/Otros'/>
-</entry>
-<entry>
-<title>1.Cuenta oficial</title>
-<apps:property name='from' value='@descript.com'/>
-<apps:property name='label' value='Registros/Otros/Descript'/>
 </entry>
 <entry>
 <title>1.Cuenta oficial</title>
@@ -91,7 +86,7 @@
 </entry>
 <entry>
 <title>1.Cuenta oficial</title>
-<apps:property name='from' value='@accounts.google.com OR @google.com OR learndigital-noreply@withgoogle.com OR googlealerts-noreply@google.com OR googletrends-noreply@google.com OR apps-scripts-notifications@google.com OR @appsheet.com OR google-data-studio-noreply@google.com OR firebase-no-reply@google.com OR noreply-photos@google.com OR @googlemail.com OR google-maps-noreply@google.com OR noreply-local-guides@google.com OR noreply-maps-issues@google.com OR noreply-maps-timeline@google.com OR stadia-noreply@google.com OR tagmanager-noreply@google'/>
+<apps:property name='from' value='@accounts.google.com OR @google.com OR learndigital-noreply@withgoogle.com OR googlealerts-noreply@google.com OR googletrends-noreply@google.com OR apps-scripts-notifications@google.com OR @appsheet.com OR google-data-studio-noreply@google.com OR firebase-no-reply@google.com OR noreply-photos@google.com OR @googlemail.com OR google-maps-noreply@google.com OR noreply-local-guides@google.com OR noreply-maps-issues@google.com OR noreply-maps-timeline@google.com OR stadia-noreply@google.com OR tagmanager-noreply@google.com'/>
 <apps:property name='label' value='Registros/Otros/Google'/>
 </entry>
 <entry>
@@ -106,7 +101,7 @@
 </entry>
 <entry>
 <title>1.Cuenta oficial</title>
-<apps:property name='from' value='@accountprotection.microsoft.com OR @communication.microsoft.com OR @e-mail.microsoft.com OR @email.microsoftrewards.com OR @microsoft.com OR @onedrive.com OR account-security-noreply@accountprotection.microsoft.com OR @mail.onedrive.com OR @engage.windows'/>
+<apps:property name='from' value='@accountprotection.microsoft.com OR @communication.microsoft.com OR @e-mail.microsoft.com OR @email.microsoftrewards.com OR @microsoft.com OR @onedrive.com OR account-security-noreply@accountprotection.microsoft.com OR @mail.onedrive.com OR @engage.windows.com'/>
 <apps:property name='label' value='Registros/Otros/Microsoft'/>
 </entry>
 <entry>
@@ -126,17 +121,17 @@
 </entry>
 <entry>
 <title>1.Cuenta oficial</title>
-<apps:property name='from' value='@3djuegos.com OR @3djuegos.info OR @email.allmylinks.com OR @biolinky.co OR @blogger.com OR @spotify.com OR @teamspeak.com OR @teamspeakhelp.zendesk.com OR @account.tiktok.com OR @tumblr.com OR @tumblr.zendesk.com OR @twitter.com OR @notify.vk'/>
+<apps:property name='from' value='@3djuegos.com OR @3djuegos.info OR @email.allmylinks.com OR @biolinky.co OR @blogger.com OR @spotify.com OR @teamspeak.com OR @teamspeakhelp.zendesk.com OR @account.tiktok.com OR @tumblr.com OR @tumblr.zendesk.com OR @twitter.com OR @notify.vk.com'/>
 <apps:property name='label' value='Registros/RRSS'/>
 </entry>
 <entry>
 <title>1.Cuenta oficial</title>
-<apps:property name='from' value='@discordapp.com OR @mee6bot'/>
+<apps:property name='from' value='@discordapp.com OR noreply@hammerandchisel.zendesk.com OR @mee6bot.com'/>
 <apps:property name='label' value='Registros/RRSS/Discord'/>
 </entry>
 <entry>
 <title>1.Cuenta oficial</title>
-<apps:property name='from' value='@facebookmail.com OR @support.facebook'/>
+<apps:property name='from' value='@facebookmail.com OR @support.facebook.com'/>
 <apps:property name='label' value='Registros/RRSS/Facebook'/>
 </entry>
 <entry>
@@ -151,37 +146,37 @@
 </entry>
 <entry>
 <title>1.Cuenta oficial</title>
-<apps:property name='from' value='@sfmarketing.twitch.tv OR @twitch.tv OR @dixper.gg OR @dixper.io OR @streamloots.com OR @streamelements.com OR @streamlabs'/>
+<apps:property name='from' value='@sfmarketing.twitch.tv OR @twitch.tv OR @dixper.gg OR @dixper.io OR @streamloots.com OR @streamelements.com OR @streamlabs.com'/>
 <apps:property name='label' value='Registros/RRSS/Twitch'/>
 </entry>
 <entry>
 <title>1.Cuenta oficial</title>
-<apps:property name='from' value='@youtube.com OR google-my-business-noreply@google.com OR @epoxy.tv OR @scalelab.com OR @tubebuddy.com OR @vidiq.com OR @vidiq.mail.intercom.io OR @wizdeo.com OR @wiztracker'/>
+<apps:property name='from' value='@youtube.com OR google-my-business-noreply@google.com OR @epoxy.tv OR @scalelab.com OR @tubebuddy.com OR @vidiq.com OR @vidiq.mail.intercom.io OR @wizdeo.com OR @wiztracker.com'/>
 <apps:property name='label' value='Registros/RRSS/Youtube'/>
 </entry>
 <entry>
 <title>1.Cuenta oficial</title>
-<apps:property name='from' value='@b4workapp.com OR @crehana.com OR @mercadona.avature.net OR @miscursosyformacion.com OR @talent.com OR @trabeja'/>
+<apps:property name='from' value='@b4workapp.com OR @crehana.com OR @mercadona.avature.net OR @miscursosyformacion.com OR @talent.com OR @trabeja.com'/>
 <apps:property name='label' value='Registros/Study - Job'/>
 </entry>
 <entry>
 <title>1.Cuenta oficial</title>
-<apps:property name='from' value='@accounts.infojobs.net OR @jobs.infojobs.net OR @notify.infojobs.net OR @push.infojobs'/>
+<apps:property name='from' value='@accounts.infojobs.net OR @jobs.infojobs.net OR @notify.infojobs.net OR @push.infojobs.net'/>
 <apps:property name='label' value='Registros/Study - Job/Infojobs'/>
 </entry>
 <entry>
 <title>1.Cuenta oficial</title>
-<apps:property name='from' value='@linkedin.com OR security-noreply@linkedin'/>
+<apps:property name='from' value='@linkedin.com OR security-noreply@linkedin.com'/>
 <apps:property name='label' value='Registros/Study - Job/Linkedin'/>
 </entry>
 <entry>
 <title>1.Cuenta oficial</title>
-<apps:property name='from' value='@adultdeepfakes.com OR @pornhub'/>
+<apps:property name='from' value='@adultdeepfakes.com OR @pornhub.com'/>
 <apps:property name='label' value='Registros/XXX'/>
 </entry>
 <entry>
 <title>2.Propaganda oficial</title>
-<apps:property name='from' value='community@sega.co.uk OR newsletter@steelseries'/>
+<apps:property name='from' value='community@sega.co.uk OR newsletter@steelseries.com'/>
 <apps:property name='label' value='Registros/Juegos'/>
 <apps:property name='shouldArchive' value='true'/>
 </entry>
@@ -211,13 +206,13 @@
 </entry>
 <entry>
 <title>2.Propaganda oficial</title>
-<apps:property name='from' value='@news.ubisoft.com OR @ubisoft-news.com OR news@updates.ubisoft'/>
+<apps:property name='from' value='@news.ubisoft.com OR @ubisoft-news.com OR news@updates.ubisoft.com'/>
 <apps:property name='label' value='Registros/Juegos/Ubisoft'/>
 <apps:property name='shouldArchive' value='true'/>
 </entry>
 <entry>
 <title>2.Propaganda oficial</title>
-<apps:property name='from' value='@aliexpress.com OR mailing@artelista.com OR @update.clipchamp.com OR @mailer.grabpoints.com OR newsletter@email.hofmann.es OR @myminifactory.com OR @mails.teamviewer.com OR @toggl'/>
+<apps:property name='from' value='@aliexpress.com OR mailing@artelista.com OR @update.clipchamp.com OR @mailer.grabpoints.com OR newsletter@email.hofmann.es OR @myminifactory.com OR @mails.teamviewer.com OR @toggl.com'/>
 <apps:property name='label' value='Registros/Otros'/>
 <apps:property name='shouldArchive' value='true'/>
 </entry>
@@ -241,13 +236,13 @@
 </entry>
 <entry>
 <title>2.Propaganda oficial</title>
-<apps:property name='from' value='@ads.infojobs.net OR @info.infojobs.net OR @training.infojobs.net OR ofertas@push.infojobs'/>
+<apps:property name='from' value='@ads.infojobs.net OR @info.infojobs.net OR @training.infojobs.net OR ofertas@push.infojobs.net'/>
 <apps:property name='label' value='Registros/Study - Job/Infojobs'/>
 <apps:property name='shouldArchive' value='true'/>
 </entry>
 <entry>
 <title>2.Propaganda oficial</title>
-<apps:property name='from' value='messages-noreply@linkedin.com OR notifications-noreply@linkedin.com OR updates-noreply@linkedin.com OR jobs-listings@linkedin'/>
+<apps:property name='from' value='messages-noreply@linkedin.com OR notifications-noreply@linkedin.com OR updates-noreply@linkedin.com OR jobs-listings@linkedin.com'/>
 <apps:property name='label' value='Registros/Study - Job/Linkedin'/>
 <apps:property name='shouldArchive' value='true'/>
 </entry>
@@ -273,7 +268,7 @@
 </entry>
 <entry>
 <title>3.Phishing - Fraude</title>
-<apps:property name='from' value='@df.worldspatial.com OR @post.lu OR @newsletter.lidl.es OR @ptt.gov.tr OR @sidesadvice.com OR @charter.net OR @mail.goodreads.com OR @e.powtoon.com OR @wideo-2.intercom-mail.com OR @angled.nanolost.com OR @dearth.highmaid.com OR @lastinfos.xyz OR @thekingdavidgallery.com OR @w'/>
+<apps:property name='from' value='@df.worldspatial.com OR @post.lu OR @newsletter.lidl.es OR @ptt.gov.tr OR @sidesadvice.com OR @charter.net OR @mail.goodreads.com OR @e.powtoon.com OR @wideo-2.intercom-mail.com OR @angled.nanolost.com OR @dearth.highmaid.com OR @lastinfos.xyz OR @thekingdavidgallery.com OR @wp.pl'/>
 <apps:property name='shouldTrash' value='true'/>
 </entry>
 </feed>
