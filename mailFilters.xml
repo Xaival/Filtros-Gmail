@@ -64,22 +64,17 @@
 </entry>
 <entry>
 <title>1.Cuenta oficial</title>
-<apps:property name='from' value='@20minutos.es OR @adblockplus.org OR @adobe.com OR @behance.com OR @anvesoft.com OR @airdroid.com OR @airtable.com OR @algorithmia.com OR @animaker.com OR aminoeditor@gmail.com OR @id.apple.com OR @InsideApple.Apple.com OR @itunes.com OR @am.atlassian.com OR @autodesk.com OR @awesome-table.com OR @bandaequals.com OR @biodigital.com OR @brilliant.org OR @idm.myid.canon OR @codepen.io OR support@codepen.io OR @cryengine.com OR @cults3d.com OR @degoo.com OR @dropbox.com OR @eyeo.com OR @ggplayers.com OR @github.com OR @gleam.io OR @heroforge.com OR @idle-empire.com OR @imagecolorizer.com OR @imgbb.com OR @imusician.pro OR @archive.org OR @kastapp.co OR @evasyst.com OR @landr.com OR @masteringbox.com OR @mega.nz OR @mixronline.com OR @moises.ai OR @moreapp.com OR @neocities.org OR @mail.notion.so OR @nvidia.com OR @tmail.nvidia.com'/>
+<apps:property name='from' value='@20minutos.es OR @adblockplus.org OR @adobe.com OR @behance.com OR @anvesoft.com OR @airdroid.com OR @airtable.com OR @algorithmia.com OR @animaker.com OR aminoeditor@gmail.com OR @id.apple.com OR @InsideApple.Apple.com OR @itunes.com OR @am.atlassian.com OR @autodesk.com OR @awesome-table.com OR @bandaequals.com OR @biodigital.com OR @brilliant.org OR @idm.myid.canon OR @codepen.io OR support@codepen.io OR @cryengine.com OR @cults3d.com OR @degoo.com OR @descript.com OR @dropbox.com OR @eyeo.com OR @fxhome.com OR @ggplayers.com OR @github.com OR @gleam.io OR @heroforge.com OR @idle-empire.com OR @imagecolorizer.com OR @imgbb.com OR @imusician.pro OR @archive.org OR @kastapp.co OR @evasyst.com OR @landr.com OR @masteringbox.com OR @mega.nz OR @mixronline.com OR @moises.ai OR @moreapp.com OR @neocities.org OR @mail.notion.so'/>
 <apps:property name='label' value='Registros/Otros'/>
 </entry>
 <entry>
 <title>1.Cuenta oficial</title>
-<apps:property name='from' value='@event.nvidia.com OR support@nvidia.zendesk.com OR @pastebin.com OR @playpaste.com OR @mail.plex.tv OR @razer.com OR @repl.it OR @resemble-ai-553f8a65fd6b.intercom-mail.com OR @sepiia.com OR @mail.sheetsu.io OR @sketchfab.com OR @mail.sony-europe.com OR @sony.com OR @sparkol.com OR @squarespace.com OR @substance3d.com OR @teamviewer.com OR @trello.com OR @turbosquid.com OR @typeform.com OR @unity3d.com OR @uploaded.net OR @entradas.com OR @info.wallapop.com OR @wixanswers.com OR @wps.com OR @xyzprinting.com'/>
+<apps:property name='from' value='@nvidia.com OR @tmail.nvidia.com OR @event.nvidia.com OR support@nvidia.zendesk.com OR @pastebin.com OR @playpaste.com OR @mail.plex.tv OR @razer.com OR @repl.it OR @resemble-ai-553f8a65fd6b.intercom-mail.com OR @sepiia.com OR @mail.sheetsu.io OR @sketchfab.com OR @mail.sony-europe.com OR @sony.com OR @sparkol.com OR @squarespace.com OR @substance3d.com OR @teamviewer.com OR @trello.com OR @turbosquid.com OR @typeform.com OR @unity3d.com OR @uploaded.net OR @entradas.com OR @info.wallapop.com OR @wixanswers.com OR @wps.com OR @xyzprinting.com'/>
 <apps:property name='label' value='Registros/Otros'/>
 </entry>
 <entry>
 <title>1.Cuenta oficial</title>
-<apps:property name='from' value='@fxhome.com'/>
-<apps:property name='label' value='Registros/Otros/FXhome HitFilm'/>
-</entry>
-<entry>
-<title>1.Cuenta oficial</title>
-<apps:property name='from' value='@accounts.google.com OR @google.com OR learndigital-noreply@withgoogle.com OR googlealerts-noreply@google.com OR googletrends-noreply@google.com OR apps-scripts-notifications@google.com OR @appsheet.com OR google-data-studio-noreply@google.com OR firebase-no-reply@google.com OR noreply-photos@google.com OR @googlemail.com OR google-maps-noreply@google.com OR noreply-local-guides@google.com OR noreply-maps-issues@google.com OR noreply-maps-timeline@google.com OR stadia-noreply@google.com OR tagmanager-noreply@google.com'/>
+<apps:property name='from' value='@google.com OR learndigital-noreply@withgoogle.com OR googlealerts-noreply@google.com OR googletrends-noreply@google.com OR apps-scripts-notifications@google.com OR @appsheet.com OR google-data-studio-noreply@google.com OR firebase-no-reply@google.com OR noreply-photos@google.com OR @googlemail.com OR google-maps-noreply@google.com OR noreply-local-guides@google.com OR noreply-maps-issues@google.com OR noreply-maps-timeline@google.com OR stadia-noreply@google.com OR tagmanager-noreply@google.com'/>
 <apps:property name='label' value='Registros/Otros/Google'/>
 </entry>
 <entry>
@@ -114,7 +109,7 @@
 </entry>
 <entry>
 <title>1.Cuenta oficial</title>
-<apps:property name='from' value='@3djuegos.com OR @3djuegos.info OR @email.allmylinks.com OR @biolinky.co OR @blogger.com OR @spotify.com OR @teamspeak.com OR @teamspeakhelp.zendesk.com OR @account.tiktok.com OR @tumblr.com OR @tumblr.zendesk.com OR @twitter.com OR @notify.vk.com'/>
+<apps:property name='from' value='@3djuegos.com OR @3djuegos.info OR @email.allmylinks.com OR @biolinky.co OR @blogger.com OR @shutterstock.com OR @spotify.com OR @teamspeak.com OR @teamspeakhelp.zendesk.com OR @account.tiktok.com OR @tumblr.com OR @tumblr.zendesk.com OR @twitter.com OR @notify.vk.com'/>
 <apps:property name='label' value='Registros/RRSS'/>
 </entry>
 <entry>
@@ -131,11 +126,6 @@
 <title>1.Cuenta oficial</title>
 <apps:property name='from' value='@mail.instagram.com'/>
 <apps:property name='label' value='Registros/RRSS/Instagram'/>
-</entry>
-<entry>
-<title>1.Cuenta oficial</title>
-<apps:property name='from' value='@shutterstock.com'/>
-<apps:property name='label' value='Registros/RRSS/Shutterstock'/>
 </entry>
 <entry>
 <title>1.Cuenta oficial</title>
