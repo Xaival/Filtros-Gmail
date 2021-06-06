@@ -17,7 +17,7 @@ Lista obtenida de [Tiswagos Liri](https://docs.google.com/spreadsheets/d/13Dyjdz
 
 ![image](https://user-images.githubusercontent.com/54257745/112396015-b9ff5680-8cff-11eb-8aac-05725288b15d.png)
 
-4. Una vez ahi entra en la pestaña **"Filtros y direcciones bloqueadas"** y dentro de la pestaña en **"Importar filtros"**.
+4. Una vez ahí entra en la pestaña **"Filtros y direcciones bloqueadas"** y dentro de la pestaña en **"Importar filtros"**.
 
 ![image](https://user-images.githubusercontent.com/54257745/112396418-693c2d80-8d00-11eb-9854-79b4032d3f63.png)
 
