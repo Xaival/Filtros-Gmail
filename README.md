@@ -13,7 +13,7 @@ Lista obtenida de [Tiswagos Liri](https://docs.google.com/spreadsheets/d/13Dyjdz
 
 ![image](https://user-images.githubusercontent.com/54257745/112395807-5ffe9100-8cff-11eb-9c99-b72983a0e4af.png)
 
-3. En a tu cuenta de [gmail](https://mail.google.com/) dale al boton de **configuración** de arriba en la derecha y en el menu desplegable que se abrira dale a **"Ver todos los ajustes"**.
+3. En tu cuenta de [gmail](https://mail.google.com/) dale al botón de **configuración** de arriba a la derecha y en el menú desplegable que se abrirá dale a **"Ver todos los ajustes"**.
 
 ![image](https://user-images.githubusercontent.com/54257745/112396015-b9ff5680-8cff-11eb-8aac-05725288b15d.png)
 
