@@ -9,7 +9,7 @@ Lista obtenida de [Tiswagos Liri](https://docs.google.com/spreadsheets/d/13Dyjdz
 
 ![image](https://user-images.githubusercontent.com/54257745/112395636-17df6e80-8cff-11eb-8210-0d869c3c288d.png)
 
-2. Selecciona donde quieres que se guarde.
+2. Selecciona dónde quieres que se guarde.
 
 ![image](https://user-images.githubusercontent.com/54257745/112395807-5ffe9100-8cff-11eb-9c99-b72983a0e4af.png)
 
