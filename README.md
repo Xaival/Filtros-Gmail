@@ -30,6 +30,6 @@ Lista obtenida de [Tiswagos Liri](https://docs.google.com/spreadsheets/d/13Dyjdz
 
 ![image](https://user-images.githubusercontent.com/54257745/112396872-4bbb9380-8d01-11eb-99e2-192620777449.png)
 
-7. Una vez terminado se agregara a la derecha estas etiquetas. Todo el correo que coinsida con los filtros se agregara automaticamente.
+7. Una vez terminado se agregara a la derecha estas etiquetas. Todo el correo que coincida con los filtros se agregara automáticamente.
 
 ![image](https://user-images.githubusercontent.com/54257745/112397221-f2a02f80-8d01-11eb-988b-11a7144adf23.png)
